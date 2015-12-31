@@ -1,0 +1,1 @@
+Project Helium is a 2D HTML5 shooter, created by Steven Holms. It is now open source, so any developer can help shape the project. The goal is to eventually have a stable, open source HTML5 shooter, possibly even a decent HTML5 canvas game engine.
